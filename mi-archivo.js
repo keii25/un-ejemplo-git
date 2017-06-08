@@ -1,1 +1,1 @@
-alert ("Hola Mundo (people)");
+alert ("Hola Mundo (people-git)");
